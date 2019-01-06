@@ -12,13 +12,14 @@
 ![vgc2019moon-zeldachallenge.png](vgc2019moon-zeldachallenge.png)
 
 12月の仲間大会と、12月30日に開催されたZelda's Challenge（参加費$10の海外マネーマッチ）で使った構築です。
-
 ## 目次
 
 - [構築経緯](#構築経緯)
 - [個別解説](#個別解説)
 - [Zelda's Challenge簡易レポート＆Replay](#zeldas-challenge簡易レポートreplay)
 - [Showdown Text](showdown-text)
+
+仲間大会のリプレイはYouTubeに[ライブ履歴](https://www.youtube.com/playlist?list=PLcSdQQfP_Yk1EOTp3Xfv63lTtZ3qXWXXG)が残っているので、良かったらそちらも見てください。
 
 ## 構築経緯
 
