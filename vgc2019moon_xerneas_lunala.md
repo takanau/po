@@ -17,7 +17,8 @@
 - [構築経緯](#構築経緯)
 - [個別解説](#個別解説)
 - [Zelda's Challenge簡易レポート＆Replay](#zeldas-challenge簡易レポートreplay)
-- [Showdown Text](showdown-text)
+- [QRレンタルチーム](#QRレンタルチーム)
+- [Showdown Text](#showdown-text)
 
 仲間大会のリプレイはYouTubeに[ライブ履歴](https://www.youtube.com/playlist?list=PLcSdQQfP_Yk1EOTp3Xfv63lTtZ3qXWXXG)が残っているので、良かったらそちらも見てください。
 
@@ -214,6 +215,10 @@
 5勝2敗以上がトップカットだったためトップカットには進出できず。自分が負けた相手が全員トップカットに進出したということもあり、16位/65人と順位はぼちぼちでした。
 
 このようなマネーマッチに参加するのは初めてでしたが、良い練習になって非常に良かったです。モチベーション維持のためにも仲間大会や海外の大会には積極的に出ていきたいなと思ってます。
+
+## QRレンタルチーム
+
+https://3ds.pokemon-gl.com/rentalteam/usum/BT-4CD2-8EED
 
 ## Showdown Text
 
