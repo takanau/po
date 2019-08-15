@@ -1,4 +1,4 @@
-[日本語](vgc2019_ultra_xray_jp.md)
+[日本語](vgc2019ultra_xray_jp.md)
 
 ![vgc2019ultra_xray_battlebox.png](vgc2019ultra_xray_battlebox.png)
 
