@@ -1,4 +1,4 @@
-[English](vgc2019_ultra_xray_en.md)
+[English](vgc2019ultra_xray_en.md)
 
 ![vgc2019ultra_xray_battlebox.png](vgc2019ultra_xray_battlebox.png)
 
