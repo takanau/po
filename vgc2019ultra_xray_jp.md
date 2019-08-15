@@ -6,7 +6,7 @@
 
 [pokepaste](https://pokepast.es/99b57ed559a77be3)
 
-# [→English version here](vgc2019ultra_xray_en.md)
+## [English version here](vgc2019ultra_xray_en.md)
 
 ## 目次
 - [構築経緯](#構築経緯)
