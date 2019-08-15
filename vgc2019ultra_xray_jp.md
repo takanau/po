@@ -1,11 +1,12 @@
 # VGC2019 地団駄バレルレックゼルネ
-[English](vgc2019ultra_xray_en.md)
 
 ![vgc2019ultra_xray_battlebox.png](vgc2019ultra_xray_battlebox.png)
 
 ![vgc2019ultra_xray_paste.png](vgc2019ultra_xray_paste.png)
 
 [pokepaste](https://pokepast.es/99b57ed559a77be3)
+
+# [→English version here](vgc2019ultra_xray_en.md)
 
 ## 目次
 - [構築経緯](#構築経緯)
