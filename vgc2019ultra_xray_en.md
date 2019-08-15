@@ -1,3 +1,4 @@
+# VGC2019 xray with Stomping Tantrum Amoonguss
 [日本語](vgc2019ultra_xray_jp.md)
 
 ![vgc2019ultra_xray_battlebox.png](vgc2019ultra_xray_battlebox.png)
@@ -6,7 +7,7 @@
 
 [pokepaste](https://pokepast.es/99b57ed559a77be3)
 
-# The Team Building Process
+## The Team Building Process
 I've been using teams including Xerneas, Rayquaza-Mega, Incineroar, Amoonguss since the early season in Ultra Series. After Japan Nats, I reconsidered them and found the following needed in the rest two slots:
 
 1. A counter against Celesteela even under heavy rain
@@ -22,7 +23,7 @@ Next I tested the latter. Zapdos is an excellent counter against Gengar-Mega, th
 
 I found the Ground-type move is not satisfied only by Rayquaza's Earth Power. I attempted Incineroar or Amoonguss with Ground-type move. I tested Incineroar with Bulldoze first. It was pretty good but it was a bit difficult to use skillfully. So I tried to use Amoonguss with Hidden Power Ground, following the fact in VGC2015 against Heatran. At that time, luckily I found Amoonguss learned **_Stomping Tantrum_** in Gen7 and it can OHKO Nihilego by only 20 Attack EVs. I was very excited by the fact and tested it. It brought so much benefit to my team and I realized it's perfect for me.
 
-# The team
+## The team
 ```
 Xerneas @ Power Herb  
 Ability: Fairy Aura  
@@ -136,7 +137,7 @@ IVs: 0 Atk / 6 Spe
 
 I chose Fini as a strong counter against Groudon and Tapu Lele. Tapunium Z is very compatible to Rayquaza's Extreme Speed. Protect is essential because it's speed is quite low and it doesn't have berries.
 
-# Conclusion
+## Conclusion
 
 Amoonguss with Stomping Tantrum is completely new type. If you like, please try it :)
 
