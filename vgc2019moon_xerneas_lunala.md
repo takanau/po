@@ -1,3 +1,4 @@
+# [追記：ブログへ移行しました](https://takanauu.info/2019/01/05/vgc2019moon-xerneas-lunala/)
 # 【VGC2019MoonSeries/Zelda's Challenge使用構築】Zルナアーラ＋ゼルネアス
 
 |ポケモン|技1|技2|技3|技4|持ち物|
