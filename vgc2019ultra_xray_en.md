@@ -1,3 +1,5 @@
+# [Update: Moved to my own Blog](https://takanauu.info/2019/08/15/vgc2019-tantrum-amoonguss/?lang=en)
+
 # VGC2019 xray with Stomping Tantrum Amoonguss
 [日本語](vgc2019ultra_xray_jp.md)
 
