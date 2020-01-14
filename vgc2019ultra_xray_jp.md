@@ -1,3 +1,4 @@
+# [追記：ブログへ移行しました](https://takanauu.info/2019/08/15/vgc2019-tantrum-amoonguss/)
 # VGC2019 地団駄バレルレックゼルネ
 
 ![vgc2019ultra_xray_battlebox.png](vgc2019ultra_xray_battlebox.png)
