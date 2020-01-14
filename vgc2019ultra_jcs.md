@@ -1,3 +1,4 @@
+# [追記：ブログへ移行しました](https://takanauu.info/2019/05/03/vgc2019-jcs-xray/)
 # 【VGC2019UltraSeries/JCS予選1765】怒りのクロバレックゼルネ
 ![jcs2019_battlebox.png](vgc2019ultra_jcs_battlebox.png)
 
